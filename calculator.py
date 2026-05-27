@@ -1,6 +1,6 @@
 # ============================================================
-# PYTHON CALCULATOR - Beginner Portfolio Project
-# Author: Your Name
+# PYTHON CALCULATOR - project
+# Author: Asbel kipkosgei
 # Description: A simple terminal calculator that supports
 #              addition, subtraction, multiplication, division
 # ============================================================
