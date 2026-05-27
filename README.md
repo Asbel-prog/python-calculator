@@ -131,8 +131,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: [@asbel-prog](https://github.com/asbel-prog)
+- LinkedIn: [Your Name](https://linkedin.com/in/asbel-kipkosgei-in2030)
 
 ---
 
